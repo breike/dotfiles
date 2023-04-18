@@ -1,0 +1,5 @@
+/*** Works on common browsers ***/
+*::selection {
+    background: #9b3885 !important;
+    color: #fff;
+}
